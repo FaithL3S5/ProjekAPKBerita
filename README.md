@@ -1,7 +1,7 @@
 # ProjekAPKBerita
 Repositori Ini Berisi Projek Tugas Pembuatan Projek APK Berita Menggunakan Activity, Fragment, dan lain-lain pada Mata Kuliah Pemprograman Bergerak
 
-Aplikasi ini dapat digunakan untuk membaca berita, menginput serta mengedit data alumni, serta mengecek berita dengan memasukkan nama kota
+Aplikasi ini dapat digunakan untuk membaca berita, menginput serta mengedit data alumni, serta mengecek cuaca dengan memasukkan nama kota
 
 Detil Development dapat dilihat pada file Laporan Tutorial Aplikasi.docx
 
