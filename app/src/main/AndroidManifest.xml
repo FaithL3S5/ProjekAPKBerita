@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="pnj.ac.id.tmjreg">
+    package="pnj.uts.fatih.tmjreg">
 
     <uses-permission android:name="android.permission.INTERNET" />
 
@@ -12,11 +12,13 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.TMJReg"
         android:usesCleartextTraffic="true">
-        <activity android:name=".DetailBeritaActivity" />
-        <activity android:name=".LatihanListActivity" />
-        <activity android:name=".RegisterActivity" />
-        <activity android:name=".LoginActivity" />
-        <activity android:name=".MainActivity">
+        <activity android:name="pnj.uts.fatih.tmjreg.HomeActivity"></activity>
+        <activity android:name="pnj.uts.fatih.tmjreg.WeatherActivity"></activity>
+        <activity android:name="pnj.uts.fatih.tmjreg.DetailBeritaActivity" />
+        <activity android:name="pnj.uts.fatih.tmjreg.RegisterActivity" />
+        <activity android:name="pnj.uts.fatih.tmjreg.UbahActivity" />
+        <activity android:name="pnj.uts.fatih.tmjreg.LoginActivity" />
+        <activity android:name="pnj.uts.fatih.tmjreg.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

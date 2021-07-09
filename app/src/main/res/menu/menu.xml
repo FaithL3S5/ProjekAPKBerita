@@ -4,11 +4,11 @@
 
     <item
         android:id="@+id/actionMenu1"
-        android:title="Menu 1"
+        android:title="Tambah Data"
         app:showAsAction="never" />
     <item
         android:id="@+id/actionMenu2"
-        android:title="Menu 2" />
+        android:title="Data Alumni" />
     <item
         android:id="@+id/actionMenu3"
         android:title="Logout"
